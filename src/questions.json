@@ -1,0 +1,222 @@
+[
+    {
+        "question": "Which of the following is used in React.js to increase performance?",
+        "choices": [
+            "Virtual DOM",
+            "Real DOM",
+            "Both A and B",
+            "None of the Above"
+        ],
+        "correctAnswer": "Virtual DOM",
+        "difficulty": 1
+    },
+    {
+        "question": "What is ReactJS?",
+        "choices": [
+            "Server-side frameWork",
+            "User interface frameWork",
+            "Both A and B",
+            "None of the Above"
+        ],
+        "correctAnswer": "User interface frameWork",
+        "difficulty": 1
+    },
+    {
+        "question": "Identify the one which is used to pass data to components from outside",
+        "choices": [
+            "Render with Arguments",
+            "setState",
+            "propsType",
+            "props"
+        ],
+        "correctAnswer": "props",
+        "difficulty": 1
+    },
+    {
+        "question": "Who created React.js?",
+        "choices": [
+            "Jorden Mike",
+            "Jorden Walke",
+            "Tim Lee",
+            "Joden Lee"
+        ],
+        "correctAnswer": "Jorden Walke",
+        "difficulty": 1
+    },
+    {
+        "question": "When is useReducer used over useState in React component?",
+        "choices": [
+            "When we want to Replace Redux",
+            "When we want to break our production app",
+            "When we want to improve the Performance",
+            "None of the Above"
+        ],
+        "correctAnswer": "When we want to Replace Redux",
+        "difficulty": 2
+    },
+    {
+        "question": "A class is a type of function, but instead of using the keyword function to initiate it, which keyword do we use?",
+        "choices": [
+            "Constructor",
+            "Class",
+            "Object",
+            "DataObject"
+        ],
+        "correctAnswer": "Class",
+        "difficulty": 2
+    },
+    {
+        "question": "What are the two ways to handle data in React?",
+        "choices": [
+            "State & Props",
+            "Services & Components",
+            "State & Services",
+            "State & Component"
+        ],
+        "correctAnswer": "State & Props",
+        "difficulty": 2
+    },
+    {
+        "question": "Identify the one which is used to pass data to components from outside",
+        "choices": [
+            "Render with Arguments",
+            "setState",
+            "propsType",
+            "props"
+        ],
+        "correctAnswer": "props",
+        "difficulty": 2
+    },
+    {
+        "question": "What is the capital of France?",
+        "choices": [
+            "London",
+            "Paris",
+            "Berlin",
+            "Rome"
+        ],
+        "correctAnswer": "Paris",
+        "difficulty": 3
+    },
+    {
+        "question": "What is the capital of France?",
+        "choices": [
+            "London",
+            "Paris",
+            "Berlin",
+            "Rome"
+        ],
+        "correctAnswer": "Paris",
+        "difficulty": 3
+    },
+    {
+        "question": "What is the capital of France?",
+        "choices": [
+            "London",
+            "Paris",
+            "Berlin",
+            "Rome"
+        ],
+        "correctAnswer": "Paris",
+        "difficulty": 3
+    },
+    {
+        "question": "What is the capital of France?",
+        "choices": [
+            "London",
+            "Paris",
+            "Berlin",
+            "Rome"
+        ],
+        "correctAnswer": "Paris",
+        "difficulty": 3
+    },
+    {
+        "question": "What is the capital of France?",
+        "choices": [
+            "London",
+            "Paris",
+            "Berlin",
+            "Rome"
+        ],
+        "correctAnswer": "Paris",
+        "difficulty": 3
+    },
+    {
+        "question": "What is the capital of France?",
+        "choices": [
+            "London",
+            "Paris",
+            "Berlin",
+            "Rome"
+        ],
+        "correctAnswer": "Paris",
+        "difficulty": 3
+    },
+    {
+        "question": "What is the capital of France?",
+        "choices": [
+            "London",
+            "Paris",
+            "Berlin",
+            "Rome"
+        ],
+        "correctAnswer": "Paris",
+        "difficulty": 3
+    },
+    {
+        "question": "What is the capital of France?",
+        "choices": [
+            "London",
+            "Paris",
+            "Berlin",
+            "Rome"
+        ],
+        "correctAnswer": "Paris",
+        "difficulty": 3
+    },
+    {
+        "question": "What is the capital of France?",
+        "choices": [
+            "London",
+            "Paris",
+            "Berlin",
+            "Rome"
+        ],
+        "correctAnswer": "Paris",
+        "difficulty": 3
+    },
+    {
+        "question": "What is the capital of France?",
+        "choices": [
+            "London",
+            "Paris",
+            "Berlin",
+            "Rome"
+        ],
+        "correctAnswer": "Paris",
+        "difficulty": 3
+    },
+    {
+        "question": "What are the two ways to handle data in React?",
+        "choices": [
+            "State & Props",
+            "Services & Components",
+            "State & Services",
+            "State & Component"
+        ],
+        "correctAnswer": "State & Props",
+        "difficulty": 3
+    },
+    {
+        "question": "A class is a type of function, but instead of using the keyword function to initiate it, which keyword do we use?",
+        "choices": [
+            "Constructor",
+            "Class",
+            "Object",
+            "DataObject"
+        ],
+        "correctAnswer": "Class",
+        "difficulty": 3
+    }
+]
